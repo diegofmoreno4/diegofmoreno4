@@ -23,6 +23,13 @@
 
 <p align="left">¡Estoy emocionado por la oportunidad de contribuir al éxito de las empresas a través de la tecnología! Si estás buscando un profesional comprometido, creativo y orientado a resultados, no dudes en contactarme:</p>
 
-📩 [Correo Electrónico](mailto:dfmm17ykty@gmail.com)  
-📲 [Teléfono](tel:+573165182257)
+<div align="left">
+  <a href="mailto:dfmm17ykty@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/diego-felipe-montealegre-126a30189/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+</div>
+
 
